@@ -36,4 +36,4 @@ async def on_message(message): #Este evento se activa cada vez que se recibe un 
         await message.channel.send("No puedo procesar este comando, ¡lo siento!") 
 
 
-client.run("MTExNDYwMTAzNTU2MzAxMjE2OA.G4i4Tu.C32773XH7K4vKUg4nD8i4zjuRDjOizPWqw-qFE") # TOKEN --> No borrar 
+client.run("TOKEN HERE") # TOKEN --> No borrar 
