@@ -1,5 +1,6 @@
 #Mi primer bot de discord! 
 
+#Este es un boss desarrollado para Discord con la clase Cliente! Trae del archivo bot_logic una función que genera contraseñas (gen_pass)
 
 #Importando librerías
 import discord
